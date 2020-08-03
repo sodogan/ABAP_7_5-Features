@@ -1,4 +1,4 @@
-class ZCL_ABAP_NEW_FEATURES definition
+class ZCL_ABAP_NEW definition
   public
   create public .
 
@@ -9,5 +9,5 @@ ENDCLASS.
 
 
 
-CLASS ZCL_ABAP_NEW_FEATURES IMPLEMENTATION.
+CLASS ZCL_ABAP_NEW IMPLEMENTATION.
 ENDCLASS.
